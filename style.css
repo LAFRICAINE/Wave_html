@@ -1,0 +1,120 @@
+fieldset{
+    background-color:black;
+    width: 100%;
+}
+    .fond{
+    background-color: rgb(63, 63, 172);
+    width: 25%;
+    margin-left: 35%;
+}
+.heure{
+    color: azure;
+    display: flex;
+
+}
+.fa-gear {
+    color: azure;
+}
+h3{
+    text-align: center;
+    color: azure;
+}
+.fond2{
+    background-color: azure;
+    border-radius: 10px;
+    }
+    .paiement{ 
+        display: flex;
+        justify-content: space-between;
+    }
+.bas{
+    color: grey;
+    
+
+
+    
+}
+.icone{
+    margin-left: 70%;
+    color: azure;
+}
+.photo{
+    width:250px;
+    margin-left: 5%;
+    border-radius: 10%;
+}
+    
+.fa-user{
+    color: darkslateblue;
+    border: 5px solid rgb(211, 211, 245);
+    border-radius: 150%;
+    background-color: rgb(195, 195, 236);
+    height: 20px;
+}
+
+.Tr{
+    font-weight: bold;
+}
+.fa-basket-shopping{
+    color: rgb(91, 62, 51);
+    border: 5px solid rgb(229, 126, 88);
+    border-radius: 150%;
+    background-color: rgb(234, 144, 112);
+    height: 20px;
+
+}
+.fa-mobile{
+    color: rgb(102, 102, 224);
+    border: 5px solid rgb(205, 205, 236);
+    border-radius: 150%;
+    background-color: rgb(226, 226, 250);
+    height: 20px;
+}
+.fa-building-columns{
+    color: rgb(106, 50, 50);
+    border: 5px solid palevioletred;
+    border-radius: 150%;
+    background-color: rgb(203, 58, 58);
+    height: 20px;
+}
+.fa-credit-card{
+    color: rgb(151, 61, 236);
+    border: 5px solid rgb(191, 169, 212);
+    border-radius: 150%;
+    background-color: rgb(198, 175, 220);
+    height: 20px;
+}
+.fa-gift{
+    color: rgb(64, 106, 64);
+    border: 5px solid rgb(172, 199, 172);
+    border-radius: 150%;
+    background-color: rgb(196, 232, 196);
+    height: 20px;
+}
+.fa-vault{
+    color: rgb(223, 92, 135);
+    border: 5px solid pink;
+    border-radius: 150%;
+    background-color: pink;
+    height: 20px;
+}
+.fa-bus{
+    color: rgb(231, 118, 77);
+    border: 5px solid rgb(236, 192, 176);
+    background-color: rgb(236, 179, 158);
+    border-radius: 150%;
+    height: 20px ;
+}
+.rangement{
+    display: flex;
+    text-align: center;
+}
+.fa-wifi{
+    margin-left: 70%;
+}
+.couleur{
+    color: rgb(119, 19, 213);
+}
+
+
+
